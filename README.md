@@ -136,8 +136,7 @@ Verification Codes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/bcg-x-churn-prediction.git
-cd bcg-x-churn-prediction
+git clone https://github.com/sayemkhandaker17/bcg-x-churn-prediction.git
 
 # Install dependencies
 pip install pandas numpy scikit-learn seaborn matplotlib jupyter
