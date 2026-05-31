@@ -119,19 +119,6 @@ Two primary datasets were used:
 - **Tools:** Jupyter Notebook, Excel (supporting analysis)
 
 ---
-
-## 📜 Certificate
-
-Completed by **Khandaker Sayem Rahman** — *BCG X Data Science Job Simulation* via Forage
-📅 July 2, 2025
-🔗 [View Certificate](./certificate/BCG_X_Certificate.pdf)
-
-Verification Codes:
-- Enrolment: `2ncqdDNTExaitJvMw`
-- User: `5SgdncvTEPqct4FkP`
-
----
-
 ## 🚀 How to Run
 
 ```bash
