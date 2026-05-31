@@ -1,4 +1,4 @@
-# 🔍 BCG X Data Science Job Simulation – Customer Churn Prediction
+# 🔍 BCG X Data Science – Customer Churn Prediction
 
 > **BCG X (Boston Consulting Group) | Forage Virtual Experience Program**
 > `June 2025 – July 2025` · Certificate issued July 2, 2025
